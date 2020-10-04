@@ -1,0 +1,70 @@
+.jumbotron {
+  background: url("images/blue1.jpg") no-repeat ;
+  background-size: cover;
+  color: #fff;
+  padding: 100px 0;
+  text-align: center;
+}
+
+
+.brand-icon {
+    font-size: 100px;
+}
+
+.engine{
+  background-color: #707570; 
+  border: none;
+  color: white;
+  padding: 8px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 30px;
+}
+
+.engine1{
+  background-color: #707570; 
+  border: none;
+  color: white;
+  padding: -100px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 16px;
+  margin-top: 40px;
+  height:40px;
+  margin-left:10px;
+}
+
+
+.search{
+  width:500px;
+  height:28px;
+  padding:10px;
+  font-size: 28px;
+}
+
+.adjust {
+  /* display: flex; */
+  flex: 33.33%;
+  /* justify-content: space-between; */
+  margin-top: 40px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+h5{
+  font-size: 24px;
+  color: rgb(14, 68, 117);
+  display: block;
+}
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  padding: 5px;
+}
+.item{
+  margin:5px;
+  display: block;
+}
